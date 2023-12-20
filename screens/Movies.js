@@ -4,7 +4,7 @@ import {View, Text, StyleSheet} from 'react-native';
 const Movies = () => {
   return (
     <View style={styles.container}>
-      <Text>Movies</Text>
+      <Text>Movies15</Text>
     </View>
   );
 };
